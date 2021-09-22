@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Mironio/temp/issues"
   },
-  "homepage": "https://github.com/Mironio/temp#readme"
+  "homepage": "https://github.com/Mironio/temp#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
